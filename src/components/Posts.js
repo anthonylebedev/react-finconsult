@@ -5,7 +5,7 @@ export default class Posts extends Component {
     render() {
         return (
             <div className="left">
-                <Post alt="nature" src="http://lorempixel.com/400/200" />
+                <Post alt=" " src="http://lorempixel.com/400/200" title="Название" description="Описание...Описание...Описание...Описание...Описание...Описание..."/>
             </div>
         )
     }
