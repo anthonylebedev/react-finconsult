@@ -5,17 +5,17 @@ export default function Users() {
     return (
         <div className="right">
             <User
-                src="http://lorempixel.com/400/200"
+                src="../error.png"
                 alt="noavatar"
                 name="noavatar"/>
             <div className="users__block">
                 <User
-                    src="http://lorempixel.com/400/200"
+                    src="../error.png"
                     alt="noavatar"
                     name="noavatar"
                     min/>
                 <User
-                    src="http://lorempixel.com/400/200"
+                    src="../error.png"
                     alt="noavatar"
                     name="noavatar"
                     min/>

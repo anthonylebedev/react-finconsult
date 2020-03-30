@@ -6,7 +6,7 @@ export default class Post extends Component {
         return (
             <div className="post">
                 <User
-                    src="http://lorempixel.com/400/200"
+                    src="../error.png"
                     alt="noavatar"
                     name="noavatar"/>
                 <img src={this.props.src} alt={this.props.alt}></img>
